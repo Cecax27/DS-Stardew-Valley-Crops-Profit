@@ -1,0 +1,53 @@
+name,description,seed,growth_time,regrowth_time,production_per_season,cheapest_purchase_price,better_place_to_buy,quality,sell_price,gold_per_day
+Ancient Fruit,It's been dormant for eons.,Ancient Seeds,28,7,0,100.0,Traveling cart,Regular,550.0,0.0
+Blue Jazz,The flower grows in a sphere to invite as many butterflies as possible.,Jazz Seeds,7,0,3,30.0,General store,Regular,50.0,2.142857142857143
+Cauliflower,"Valuable, but slow-growing. Despite its pale color, the florets are packed with nutrients.",Cauliflower Seeds,12,0,2,80.0,General store,Regular,175.0,6.785714285714286
+Coffee Bean,Plant in spring or summer to grow a coffee plant. Place five beans in a keg to make coffee.,Coffee Bean,10,2,9,,,Regular,15.0,
+Garlic,Adds a wonderful zestiness to dishes. High quality garlic can be pretty spicy.,Garlic Seeds,4,0,6,40.0,General store,Regular,60.0,4.285714285714286
+Green Bean,"A juicy little bean with a cool, crisp snap.",Bean Starter,10,3,6,60.0,General store,Regular,40.0,-4.285714285714286
+Kale,The waxy leaves are great in soups and stir frys.,Kale Seeds,6,0,4,70.0,General store,Regular,110.0,5.714285714285714
+Parsnip,A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients.,Parsnip Seeds,4,0,6,20.0,General store,Regular,35.0,3.2142857142857144
+Potato,A widely cultivated tuber.,Potato Seeds,6,0,4,50.0,General store,Regular,80.0,4.285714285714286
+Rhubarb,"The stalks are extremely tart, but make a great dessert when sweetened.",Rhubarb Seeds,13,0,2,100.0,Oasis,Regular,220.0,8.571428571428571
+Strawberry,"A sweet, juicy favorite with an appealing red color.",Strawberry Seeds,8,4,5,100.0,Egg festival,Regular,120.0,3.5714285714285716
+Tulip,The most popular spring flower. Has a very faint sweet smell.,Tulip Bulb,6,0,4,20.0,General store,Regular,30.0,1.4285714285714286
+Unmilled Rice,Rice in its rawest form. Run this through a mill to increase the value.,Rice Shoot,8,0,3,40.0,General store,Regular,30.0,-1.0714285714285714
+Ancient Fruit,It's been dormant for eons.,Ancient Seeds,28,7,0,100.0,Traveling cart,Silver,687.0,0.0
+Blue Jazz,The flower grows in a sphere to invite as many butterflies as possible.,Jazz Seeds,7,0,3,30.0,General store,Silver,62.0,3.4285714285714284
+Cauliflower,"Valuable, but slow-growing. Despite its pale color, the florets are packed with nutrients.",Cauliflower Seeds,12,0,2,80.0,General store,Silver,218.0,9.857142857142858
+Coffee Bean,Plant in spring or summer to grow a coffee plant. Place five beans in a keg to make coffee.,Coffee Bean,10,2,9,,,Silver,18.0,
+Garlic,Adds a wonderful zestiness to dishes. High quality garlic can be pretty spicy.,Garlic Seeds,4,0,6,40.0,General store,Silver,75.0,7.5
+Green Bean,"A juicy little bean with a cool, crisp snap.",Bean Starter,10,3,6,60.0,General store,Silver,50.0,-2.142857142857143
+Kale,The waxy leaves are great in soups and stir frys.,Kale Seeds,6,0,4,70.0,General store,Silver,137.0,9.571428571428571
+Parsnip,A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients.,Parsnip Seeds,4,0,6,20.0,General store,Silver,43.0,4.928571428571429
+Potato,A widely cultivated tuber.,Potato Seeds,6,0,4,50.0,General store,Silver,100.0,7.142857142857143
+Rhubarb,"The stalks are extremely tart, but make a great dessert when sweetened.",Rhubarb Seeds,13,0,2,100.0,Oasis,Silver,275.0,12.5
+Strawberry,"A sweet, juicy favorite with an appealing red color.",Strawberry Seeds,8,4,5,100.0,Egg festival,Silver,150.0,8.928571428571429
+Tulip,The most popular spring flower. Has a very faint sweet smell.,Tulip Bulb,6,0,4,20.0,General store,Silver,37.0,2.4285714285714284
+Unmilled Rice,Rice in its rawest form. Run this through a mill to increase the value.,Rice Shoot,8,0,3,40.0,General store,Silver,37.0,-0.32142857142857145
+Ancient Fruit,It's been dormant for eons.,Ancient Seeds,28,7,0,100.0,Traveling cart,Gold,825.0,0.0
+Blue Jazz,The flower grows in a sphere to invite as many butterflies as possible.,Jazz Seeds,7,0,3,30.0,General store,Gold,75.0,4.821428571428571
+Cauliflower,"Valuable, but slow-growing. Despite its pale color, the florets are packed with nutrients.",Cauliflower Seeds,12,0,2,80.0,General store,Gold,262.0,13.0
+Coffee Bean,Plant in spring or summer to grow a coffee plant. Place five beans in a keg to make coffee.,Coffee Bean,10,2,9,,,Gold,22.0,
+Garlic,Adds a wonderful zestiness to dishes. High quality garlic can be pretty spicy.,Garlic Seeds,4,0,6,40.0,General store,Gold,90.0,10.714285714285714
+Green Bean,"A juicy little bean with a cool, crisp snap.",Bean Starter,10,3,6,60.0,General store,Gold,60.0,0.0
+Kale,The waxy leaves are great in soups and stir frys.,Kale Seeds,6,0,4,70.0,General store,Gold,165.0,13.571428571428571
+Parsnip,A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients.,Parsnip Seeds,4,0,6,20.0,General store,Gold,52.0,6.857142857142857
+Potato,A widely cultivated tuber.,Potato Seeds,6,0,4,50.0,General store,Gold,120.0,10.0
+Rhubarb,"The stalks are extremely tart, but make a great dessert when sweetened.",Rhubarb Seeds,13,0,2,100.0,Oasis,Gold,330.0,16.428571428571427
+Strawberry,"A sweet, juicy favorite with an appealing red color.",Strawberry Seeds,8,4,5,100.0,Egg festival,Gold,180.0,14.285714285714286
+Tulip,The most popular spring flower. Has a very faint sweet smell.,Tulip Bulb,6,0,4,20.0,General store,Gold,45.0,3.5714285714285716
+Unmilled Rice,Rice in its rawest form. Run this through a mill to increase the value.,Rice Shoot,8,0,3,40.0,General store,Gold,45.0,0.5357142857142857
+Ancient Fruit,It's been dormant for eons.,Ancient Seeds,28,7,0,100.0,Traveling cart,Iridium,1100.0,0.0
+Blue Jazz,The flower grows in a sphere to invite as many butterflies as possible.,Jazz Seeds,7,0,3,30.0,General store,Iridium,100.0,7.5
+Cauliflower,"Valuable, but slow-growing. Despite its pale color, the florets are packed with nutrients.",Cauliflower Seeds,12,0,2,80.0,General store,Iridium,350.0,19.285714285714285
+Coffee Bean,Plant in spring or summer to grow a coffee plant. Place five beans in a keg to make coffee.,Coffee Bean,10,2,9,,,Iridium,30.0,
+Garlic,Adds a wonderful zestiness to dishes. High quality garlic can be pretty spicy.,Garlic Seeds,4,0,6,40.0,General store,Iridium,120.0,17.142857142857142
+Green Bean,"A juicy little bean with a cool, crisp snap.",Bean Starter,10,3,6,60.0,General store,Iridium,80.0,4.285714285714286
+Kale,The waxy leaves are great in soups and stir frys.,Kale Seeds,6,0,4,70.0,General store,Iridium,220.0,21.428571428571427
+Parsnip,A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients.,Parsnip Seeds,4,0,6,20.0,General store,Iridium,70.0,10.714285714285714
+Potato,A widely cultivated tuber.,Potato Seeds,6,0,4,50.0,General store,Iridium,160.0,15.714285714285714
+Rhubarb,"The stalks are extremely tart, but make a great dessert when sweetened.",Rhubarb Seeds,13,0,2,100.0,Oasis,Iridium,440.0,24.285714285714285
+Strawberry,"A sweet, juicy favorite with an appealing red color.",Strawberry Seeds,8,4,5,100.0,Egg festival,Iridium,240.0,25.0
+Tulip,The most popular spring flower. Has a very faint sweet smell.,Tulip Bulb,6,0,4,20.0,General store,Iridium,60.0,5.714285714285714
+Unmilled Rice,Rice in its rawest form. Run this through a mill to increase the value.,Rice Shoot,8,0,3,40.0,General store,Iridium,60.0,2.142857142857143

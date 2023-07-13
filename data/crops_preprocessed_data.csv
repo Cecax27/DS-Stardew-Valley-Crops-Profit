@@ -1,0 +1,50 @@
+name,artisan_sell_price,base,description,egg_festival_price,energy,general_store_price,growth_time,jojamart_price,night_market_price,oasis_price,regrowth_time,seed,sell_price_gold,sell_price_iridium,sell_price_regular,sell_price_silver,source,traveling_cart_price_max,traveling_cart_price_min,xp,spring,summer,fall,winter
+Amaranth,,Artisan (+40%),A purple grain cultivated by an ancient civilization.,,,70.0,7,87.0,,,0,Amaranth Seeds,225.0,300.0,150.0,187.0,,1000.0,105.0,21 Farming XP,False,False,True,False
+Ancient Fruit,,Artisan (+40%),It's been dormant for eons.,,Inedible,,28,,,,7,Ancient Seeds,825.0,1100.0,550.0,687.0,,1000.0,100.0,38 Farming XP,True,True,True,False
+Artichoke,,Artisan (+40%),"The bud of a thistle plant. The spiny outer leaves conceal a fleshy, filling interior.",,,30.0,8,,,,0,Artichoke Seeds,240.0,320.0,160.0,200.0,,1000.0,100.0,22 Farming XP,False,False,True,False
+Beet,,Artisan (+40%),"A sweet and earthy root vegatable. As a bonus, the leaves make a great salad.",,,,6,,,20.0,0,Beet Seeds,150.0,200.0,100.0,125.0,,1000.0,100.0,16 Farming XP,False,False,True,False
+Blue Jazz,,Artisan (+40%),The flower grows in a sphere to invite as many butterflies as possible.,,,30.0,7,37.0,30.0,,0,Jazz Seeds,75.0,100.0,50.0,62.0,,1000.0,100.0,10 Farming XP,True,False,False,False
+Blueberry,,Artisan (+40%),A popular berry reported to have many health benefits. The blue skin has the highest nutrient concentration.,,,80.0,13,,,,4,Blueberry Seeds,75.0,100.0,50.0,62.0,,1000.0,120.0,10 Farming XP per harvest,False,True,False,False
+Bok Choy,,Artisan (+40%),The leafy greens and fibrous stalks are healthy and delicious.,,,50.0,4,62.0,,,0,Bok Choy Seeds,120.0,160.0,80.0,100.0,,1000.0,100.0,14 Farming XP,False,False,True,False
+Cactus Fruit,,Artisan (+40%),The sweet fruit of the prickly pear cactus.,,,,12,,,,3,,112.0,150.0,75.0,93.0,"Foraging in the Desert
+Oasis
+ Cactus Seeds",,,"Foraging: 7 Foraging XP
+Cactus Seeds: 14 Farming XP
+Oasis: N/A",False,False,False,False
+Cauliflower,,Artisan (+40%),"Valuable, but slow-growing. Despite its pale color, the florets are packed with nutrients.",,,80.0,12,100.0,80.0,,0,Cauliflower Seeds,262.0,350.0,175.0,218.0,,1000.0,120.0,23 Farming XP,True,False,False,False
+Coffee Bean,150g,,Plant in spring or summer to grow a coffee plant. Place five beans in a keg to make coffee.,,Inedible,,10,,,,2,Coffee Bean,22.0,30.0,15.0,18.0,"Dust Sprite,Traveling Cart",,,4 Farming XP per harvest,True,True,False,False
+Corn,,Artisan (+40%),"One of the most popular grains. The sweet, fresh cobs are a summer favorite.",,,150.0,14,187.0,,,4,Corn Seeds,75.0,100.0,50.0,62.0,,1000.0,225.0,10 Farming XP,False,True,True,False
+Cranberries,,Artisan (+40%),These tart red berries are a traditional winter food.,,,240.0,7,300.0,,,5,Cranberry Seeds,112.0,150.0,75.0,93.0,,1000.0,180.0,14 Farming XP per harvest,False,False,True,False
+Eggplant,,Artisan (+40%),A rich and wholesome relative of the tomato. Delicious fried or stewed.,,,20.0,5,25.0,,,5,Eggplant Seeds,90.0,120.0,60.0,75.0,,1000.0,100.0,12 Farming XP,False,False,True,False
+Fairy Rose,,Artisan (+40%),An old folk legend suggests that the sweet smell of this flower attracts fairies.,,,200.0,12,250.0,,,0,Fairy Seeds,435.0,580.0,290.0,362.0,,1000.0,300.0,29 Farming XP,False,False,True,False
+Fiber,,,Raw material sourced from plants.,,,,0,,,,0,Fiber Seeds,1.0,1.0,1.0,1.0,"Weeds
+Desert Trader
+Wilderness Golem",,,,,,,
+Garlic,,Artisan (+40%),Adds a wonderful zestiness to dishes. High quality garlic can be pretty spicy.,,,40.0,4,,40.0,,0,Garlic Seeds,90.0,120.0,60.0,75.0,,1000.0,100.0,12 Farming XP,True,False,False,False
+Grape,,Artisan (+40%),A sweet cluster of fruit.,,,,7,,,,3,Summer Seeds (Summer) Grape Starter (Fall),120.0,160.0,80.0,100.0,"Foraging,Farming",1000.0,165.0,Summer Seeds: 7 Foraging XPForaging: 7 Foraging XPGrape Starter: 14 Farming XP,False,True,True,False
+Green Bean,,Artisan (+40%),"A juicy little bean with a cool, crisp snap.",,,60.0,10,75.0,60.0,,3,Bean Starter,60.0,80.0,40.0,50.0,,1000.0,100.0,9 Farming XP,True,False,False,False
+Hops,,Artisan (+40%),"A bitter, tangy flower used to flavor beer.",,,60.0,11,75.0,,,1,Hops Starter,37.0,50.0,25.0,31.0,,1000.0,100.0,6 Farming XP,False,True,False,False
+Hot Pepper,,Artisan (+40%),Fiery hot with a hint of sweetness.,,,40.0,5,50.0,,,3,Pepper Seeds,60.0,80.0,40.0,50.0,,1000.0,100.0,9 Farming XP,False,True,False,False
+Kale,,Artisan (+40%),The waxy leaves are great in soups and stir frys.,,,70.0,6,87.0,70.0,,0,Kale Seeds,165.0,220.0,110.0,137.0,,1000.0,105.0,17 Farming XP,True,False,False,False
+Melon,,Artisan (+40%),"A cool, sweet summer treat.",,,80.0,12,100.0,,,0,Melon Seeds,375.0,500.0,250.0,312.0,,1000.0,120.0,27 Farming XP,False,True,False,False
+Mixed Seeds,,,There's a little bit of everything here. Plant them and see what grows!,,,,0,,,,0,,,,,,,,,,,,,
+Parsnip,,Artisan (+40%),A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients.,,,20.0,4,25.0,20.0,,0,Parsnip Seeds,52.0,70.0,35.0,43.0,,1000.0,100.0,8 Farming XP,True,False,False,False
+Pineapple,,Artisan (+40%),A sweet and tangy tropical treat.,,,,14,,,,7,Pineapple Seeds,450.0,600.0,300.0,375.0,,,,30 Farming XP,False,True,False,False
+Poppy,,Artisan (+40%),"In addition to its colorful flower, the Poppy has culinary and medicinal uses.",,,100.0,7,125.0,,,0,Poppy Seeds,210.0,280.0,140.0,175.0,,1000.0,150.0,20 Farming XP,False,True,False,False
+Potato,,Artisan (+40%),A widely cultivated tuber.,,,50.0,6,62.0,50.0,,0,Potato Seeds,120.0,160.0,80.0,100.0,,1000.0,100.0,14 Farming XP,True,False,False,False
+Pumpkin,,Artisan (+40%),"A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration.",,Inedible,100.0,13,125.0,,,0,Pumpkin Seeds,480.0,640.0,320.0,400.0,,1000.0,150.0,31 Farming XP,False,False,True,False
+Radish,,Artisan (+40%),A crisp and refreshing root vegetable with hints of pepper when eaten raw.,,,40.0,6,50.0,,,0,Radish Seeds,135.0,180.0,90.0,112.0,,1000.0,100.0,15 Farming XP,False,True,False,False
+Red Cabbage,,Artisan (+40%),Often used in salads and coleslaws. The color can range from purple to blue to green-yellow depending on soil conditions.,,,100.0,9,,,,0,Red Cabbage Seeds,390.0,520.0,260.0,325.0,,1000.0,150.0,28 Farming XP,False,True,False,False
+Rhubarb,,Artisan (+40%),"The stalks are extremely tart, but make a great dessert when sweetened.",,Inedible,,13,,,100.0,0,Rhubarb Seeds,330.0,440.0,220.0,275.0,,1000.0,150.0,26 Farming XP,True,False,False,False
+Starfruit,,Artisan (+40%),"An extremely juicy fruit that grows in hot, humid weather. Slightly sweet with a sour undertone.",,,,13,,,400.0,0,Starfruit Seeds,1125.0,1500.0,750.0,937.0,,1000.0,600.0,43 Farming XP,False,True,False,False
+Strawberry,,Artisan (+40%),"A sweet, juicy favorite with an appealing red color.",100.0,,,8,,,,4,Strawberry Seeds,180.0,240.0,120.0,150.0,,,,18 Farming XP,True,False,False,False
+Summer Spangle,,Artisan (+40%),"A tropical bloom that thrives in the humid summer air. Has a sweet, tangy aroma.",,,50.0,8,62.0,,,0,Spangle Seeds,135.0,180.0,90.0,112.0,,1000.0,100.0,15 Farming XP,False,True,False,False
+Sunflower,,Artisan (+40%),A common misconception is that the flower turns so it's always facing the sun.,,,200.0,8,125.0,,,0,Sunflower Seeds,120.0,160.0,80.0,100.0,,1000.0,100.0,14 Farming XP,False,True,True,False
+Sweet Gem Berry,,,It's by far the sweetest thing you've ever smelled.,,Inedible,,24,,,,0,Rare Seed,4500.0,6000.0,3000.0,3750.0,,1000.0,600.0,64 Farming XP,False,False,True,False
+Taro Root,,Artisan (+40%),This starchy root is one of the most ancient crops.,,,,10,,,,0,Taro Tuber,150.0,200.0,100.0,125.0,,,,5 Farming XP,False,True,False,False
+Tea Leaves,,Artisan (+40%),"The young leaves of the tea plant. Can be brewed into the popular, energizing beverage.",,Inedible,,20,,,,1,Tea Sapling,,,50.0,,,2500.0,1500.0,0,True,True,True,False
+Tomato,,Artisan (+40%),"Rich and slightly tangy, the Tomato has a wide variety of culinary uses.",,,50.0,11,62.0,,,4,Tomato Seeds,90.0,120.0,60.0,75.0,,1000.0,100.0,12 Farming XP,False,True,False,False
+Tulip,,Artisan (+40%),The most popular spring flower. Has a very faint sweet smell.,,,20.0,6,25.0,20.0,,0,Tulip Bulb,45.0,60.0,30.0,37.0,,1000.0,100.0,7 Farming XP,True,False,False,False
+Unmilled Rice,,Artisan (+40%),Rice in its rawest form. Run this through a mill to increase the value.,,,40.0,8,,,,0,Rice Shoot,45.0,60.0,30.0,37.0,,1000.0,100.0,7 Farming XP,True,False,False,False
+Wheat,,Artisan (+40%),One of the most widely cultivated grains. Makes a great flour for breads and cakes.,,Inedible,10.0,4,12.0,,,0,Wheat Seeds,37.0,50.0,25.0,31.0,,1000.0,100.0,6 Farming XP,False,True,True,False
+Yam,,Artisan (+40%),A starchy tuber with a lot of culinary versatility.,,,60.0,10,75.0,,,0,Yam Seeds,240.0,320.0,160.0,200.0,,1000.0,100.0,22 Farming XP,False,False,True,False
